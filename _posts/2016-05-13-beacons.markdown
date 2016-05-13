@@ -44,10 +44,10 @@ El número de objetos inteligentes va a explotar, tanto en nuestros hogares y en
     <img class="image-center" src="img/Beacom/Caja.png"/>
     
 #Paso 5
-   Cuando el telefono reciba el beacon se activara una notificacion, al pulsar sobre ella nos abrira la URL.
+    Cuando el telefono reciba el beacon se activara una notificacion, al pulsar sobre ella nos abrira la URL.
     <img class="image-center" src="img/Beacon/Notificacion.png"/>
 
-   ##Listo!!!    
+   ###Listo!!!    
 
 ### Lenguajes de programación :
 * Arduino: Usado para la configuracion de la Flora y el modulo Bluetooth. [Ver repositorio](https://github.com/IvanJYL/Beacons/tree/master/PhysicalWeb)
