@@ -26,12 +26,11 @@ La URL que es el bloque de construcción fundamental de la web, brinda una extra
 El número de objetos inteligentes va a explotar, tanto en nuestros hogares y en los espacios públicos. Al igual que la web, no va a ser una larga cola de interactividad para los objetos inteligentes. Sin embargo, la sobrecarga de la instalación de una aplicación para cada uno de ellos simplemente no escala. Necesitamos un sistema que le permite caminar y utilizar un dispositivo con sólo un toque. La Web física no se trata de sustituir las aplicaciones nativas; Se trata de permitir la interacción de los momentos en los que las aplicaciones nativas simplemente no son prácticos.
 
 ###Como usarlo
-1. Se sube el arcivo beacon a la flora.
-    <img class="image-center" src="img/pannic_button/p1.png"/>
-2. Se enciende el la flora.
-    <img class="image-center" src="img/pannic_button/p2.jpg"/>
+
+1. Se enciende el la flora                                                                                                          
+    <img class="image-center" src="img//p2.jpg"/>
 3. Es necesario encernder el Bluetooth en el dispositivo.
-    <img class="image-center" src="img/pannic_button/p3-1.png"  style="display:inline"/>
+    <img class="image-center" src="img/Beacons/Blue.png"  style="display:inline"/>
 4. Se abre la aplicacion The Physical Web y se deja.
     <img class="image-center" src="img/pannic_button/p4.png"/>
 5..
