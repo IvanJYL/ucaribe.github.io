@@ -27,20 +27,27 @@ El número de objetos inteligentes va a explotar, tanto en nuestros hogares y en
 
 ###Como usarlo
 
-1. Se enciende el la flora                                                                                                          
-    <img class="image-center" src="img//p2.jpg"/>
-3. Es necesario encernder el Bluetooth en el dispositivo.
+#Paso 1
+   Se enciende el la flora y modulo bluetooth para activar el beacon
+    <img class="image-center" src="img//Flora.jpg"/>
+
+#Paso 2
+   Es necesario encernder el Bluetooth en el dispositivo.
     <img class="image-center" src="img/Beacons/Blue.png"  style="display:inline"/>
-4. Se abre la aplicacion The Physical Web y se deja.
-    <img class="image-center" src="img/pannic_button/p4.png"/>
-5..
-    <img class="image-center" src="img/pannic_button/p5.png"/>
-6. Cuando la conexión se realice, la aplicación android pasa al modo espera.
-    <img class="image-center" src="img/pannic_button/p6.png"/>
-7. Cuando se realice el movimiento de alerta con el brazo, el teléfono vibra, recibe una notificación, comienza a localizar al teléfono y le envía un correo a la dirección configurada con un enlace para que pueda ver las coordenadas en un mapa interactivo, al hacer click a la notificación se puede desactivar el modo de alerta.
-    <img class="image-center" src="img/pannic_button/p7.png"/>
-8. El correo configurado recibe el enlace y al presionarlo puede ver lo siguiente.
-    <img src="img/pannic_button/p8.png"/ style="width:100%;">
+   
+#Paso 3   
+   Se abre la aplicacion The Physical Web y se deja en segundo plano.
+    <img class="image-center" src="img/Beacons/App.png"/>
+
+#Paso 4
+    Cuando el dispositivo pase cerca de un Beacon este recibira el mensaje.
+    <img class="image-center" src="img/Beacom/Caja.png"/>
+    
+#Paso 5
+   Cuando el telefono reciba el beacon se activara una notificacion, al pulsar sobre ella nos abrira la URL.
+    <img class="image-center" src="img/Beacon/Notificacion.png"/>
+
+   ##Listo!!!    
 
 ### Lenguajes de programación :
 * Arduino: Usado para la configuracion de la Flora y el modulo Bluetooth. [Ver repositorio](https://github.com/IvanJYL/Beacons/tree/master/PhysicalWeb)
